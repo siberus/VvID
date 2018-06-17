@@ -1,0 +1,3 @@
+#Файлы, игнорируемые в Git
+*.txt
+!notignore.txt
